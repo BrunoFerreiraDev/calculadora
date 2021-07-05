@@ -4,7 +4,7 @@
 
 
 ## Page
-![Let Me Ask preview](.github/Captura.PNG)
+![Calculadora Mac](.github/Capturar.PNG)
 
 
 ## Tecnologies
@@ -13,6 +13,9 @@ This project was developed using cutting edge front-end technologies.
 
 
 - [ReactJS](https://reactjs.org/)
+- [JavaScript](https://JavaScript.org/)
+- [Css3](https://css3.org/)
+- [Html5](https://html5.org/)
 
 ## 💻 Getting started
 
