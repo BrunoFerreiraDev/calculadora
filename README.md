@@ -4,7 +4,7 @@
 
 
 ## Page
-![Calculadora Mac](.github/Capturar.PNG)
+![Calculadora Mac](.github/Calculadora.png)
 
 ## Link da publicação
 [Calculadora](https://calculadora-zeta-eight.vercel.app/)
