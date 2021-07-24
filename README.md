@@ -4,7 +4,7 @@
 
 
 ## Page
-![Calculadora Mac](.github/Calculadora.png)
+![ preview](.github/Calculadora.png)
 
 ## Link da publicação
 [Calculadora](https://calculadora-zeta-eight.vercel.app/)
@@ -29,7 +29,7 @@ This project was developed using cutting edge front-end technologies.
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/josepholiveira/letmeask.git && cd letmeask
+$ git clone https://github.com/BrunoFerreiraDev/Calculadora.git && cd Calculadora
 ```
 
 **Follow the steps below**
