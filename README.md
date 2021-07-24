@@ -4,7 +4,7 @@
 
 
 ## Page
-![ preview](.github/Calculadora.png)
+![ preview](.github/Calculadora.PNG)
 
 ## Link da publicação
 [Calculadora](https://calculadora-zeta-eight.vercel.app/)
